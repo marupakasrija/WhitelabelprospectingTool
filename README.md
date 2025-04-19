@@ -1,4 +1,3 @@
-# 📋 Product Manager Intern Assignment  
 **GrowMeOrganic — White-label Prospecting Tool Dashboard**
 
 ---
